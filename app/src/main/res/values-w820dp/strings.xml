@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_calculadora">Calculadora</string>
+    <string name="tv_operacao">Operacao</string>
+    <string name="bt_menos">-</string>
+    <string name="bt_mais">+</string>
+    <string name="bt_vezes">*</string>
+    <string name="bt_dividir">/</string>
+    <string name="tv_campo_igual">=</string>
+    <string name="bt_calcular">Calcular</string>
+</resources>
